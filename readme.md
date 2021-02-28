@@ -23,7 +23,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 <a name="decentralized-exchange-protocols" />
 
-## Decentralized Exchange Protocols
+## 分散的交换协议
 
 - [BitShares](https://bitshares.org/technology/decentralized-asset-exchange) ([source code](https://github.com/bitshares), [white paper](https://www.bitshares.foundation/download/articles/BitSharesBlockchain.pdf)) - Decentralized exchange protocol based on the Graphene blockchain
 - Bitcoin
@@ -47,7 +47,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 <a name="stablecoins" />
 
-## Stablecoins
+## 稳定币
 
 - IOU / Centralized
   - Bitcoin / Omni
@@ -77,7 +77,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 <a name="lending-protocols" />
 
-## Lending Protocols
+## 贷款协议
 
 - Ethereum
   - [Compound](https://compound.finance) ([source code](https://github.com/compound-finance/), [white paper](https://compound.finance/documents/Compound.Whitepaper.v04-83de48b6622ddd665234b41076d04c8b.pdf?vsn=d)) - Protocol for algorithmic money markets
@@ -89,7 +89,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 <a name="derivative-protocols" />
 
-## Derivative Protocols/Prediction Markets
+## 衍生协议/预测市场
 
 - Ethereum
   - [Augur](https://www.augur.net) ([source code](https://github.com/AugurProject/augur), [white paper](https://www.augur.net/whitepaper.pdf)) - Prediction market protocol to enable anyone to "create and speculate on derivatives at a low cost for the first time"
@@ -104,7 +104,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 <a name="bundling-protocols" />
 
-## Bundling Protocols
+## 捆绑协议
 
 - Ethereum
   - [Basket Protocol](https://www.coinalpha.com/projects) ([source code](https://github.com/CoinAlpha/basket-protocol), [wiki](https://github.com/CoinAlpha/basket-protocol/wiki)) - Protocol for creating tokens that contain a portfolio of other tokens
@@ -113,7 +113,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 <a name="fund-protocols" />
 
-## Fund Protocols
+## 基金协议
 
 - Ethereum
   - [Fund Protocol](https://www.coinalpha.com/projects) ([source code](https://github.com/CoinAlpha/fund-protocol), [wiki](https://github.com/CoinAlpha/fund-protocol/wiki)) - Protocol for fund administration on the Ethereum blockchain
@@ -121,7 +121,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 <a name="tokenization-protocols" />
 
-## Tokenization Protocols
+## 销量协议
 - Ethereum
   - [ERC-1404](https://erc1404.org/) ([source code](https://github.com/simple-restricted-token/simple-restricted-token), [eip](https://github.com/ethereum/EIPs/issues/1404)) - An open standard for issuing tokens with transfer restrictions
   - [Harbor/R-Token](https://harbor.com) ([source code](https://github.com/harborhq), [white paper](https://harbor.com/rtokenwhitepaper.pdf)) - Compliant protocol for standardizing crypto-securities issuance and trading
@@ -141,7 +141,8 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 <a name="applications-tools" />
 
-## Applications/Tools
+## 应用程序/工具
+
 - Ethereum
   - [AMP](https://amp.credit/) - DeFi Software Developer with [EasyCDP](https://easycdp.com/), [SilverWire](https://silverwire.io/), [MultiSupply](https://multi.supply/), and [StableWire](https://stablewire.com/)
   - [Bloqboard](https://bloqboard.com) - Lending platform for collateralized loans originated, settled, serviced, and managed on Ethereum and powered by Compound and Dharma
@@ -153,7 +154,8 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 <a name="analytics" />
 
-## Analytics
+## 分析
+
 - Ethereum
   - [0xTracker](https://0xtracker.com) - 0x protocol trade explorer and decentralised ERC-20 token price index
   - [CuriousGiraffe](https://www.curiousgiraffe.io) - Analytics for [AirSwap](https://www.curiousgiraffe.io/airswap/), [Augur](https://www.curiousgiraffe.io/augur/), [Compound](https://www.curiousgiraffe.io/compound/), and [KyberSwap](https://www.curiousgiraffe.io/kyberswap/)
@@ -170,7 +172,8 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 <a name="misc" />
 
-## Misc
+## 杂项
+
 - Ethereum
   - [8x Protocol](https://8xprotocol.com) ([source code](https://github.com/8xprotocol), [white paper](https://rawcdn.githack.com/8xprotocol/whitepaper/master/latest.pdf)) - Protocol for decentralized subscription payment
   - [AZTEC Protocol](https://www.aztecprotocol.com) ([source code](https://github.com/AztecProtocol/AZTEC), [white paper](https://github.com/AztecProtocol/AZTEC/blob/master/AZTEC.pdf)) - Privacy-enabling protocol for confidential transactions on the Ethereum network
@@ -179,18 +182,19 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 <a name="community" />
 
-## Community
+## 社区
+
 * [DeFi Reddit](https://www.reddit.com/r/defi/)
 * [DeFi Telegram](https://t.me/de_fi)
 
 <a name="contributions" />
 
-## Contributions
+## 贡献
 
 Your contributions are always welcome!
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@edwin](https://twitter.com/edwin).
 
-## License
+## 执照
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
