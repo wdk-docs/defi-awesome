@@ -1,25 +1,25 @@
-# Awesome Decentralized Finance  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Defi清单  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome decentralized finance projects, software, and resources.
+Defi项目清单, 软件和资源.
 
-## What is Decentralized Finance?
+## 什么事Defi?
 
-Decentralized finance (#defi) is the movement that leverages open source software and decentralized networks to transform traditional financial products into trustless and transparent protocols that operate without unnecessary intermediaries. One could envision decentralized finance impacting the financial world the same way that open source software has changed software products.
+分权金融(#defi)是利用开源软件和分散网络的运动，将传统金融产品转化为无信任和透明的协议，在没有不必要的中介机构的情况下运营。人们可以设想分散的金融影响金融世界的方式，即开源软件改变了软件产品的方式。
 
-## Contents
+## 内容
 
-- [Decentralized Exchange Protocols](#decentralized-exchange-protocols)
-- [Stablecoins](#stablecoins)
-- [Lending Protocols](#lending-protocols)
-- [Derivative Protocols/Prediction Markets](#derivative-protocols)
-- [Bundling Protocols](#bundling-protocols)
-- [Tokenization Protocols](#tokenization-protocols)
-- [Fund Protocols](#fund-protocols)
+- [分散的交换协议](#decentralized-exchange-protocols)
+- [稳定币](#stablecoins)
+- [贷款协议](#lending-protocols)
+- [衍生协议/预测市场](#derivative-protocols)
+- [捆绑协议](#bundling-protocols)
+- [销量协议](#tokenization-protocols)
+- [基金协议](#fund-protocols)
 - [KYC/AML/Identity](#kyc-aml-identity)
-- [Applications/Tools](#applications-tools)
-- [Analytics](#analytics)
-- [Misc](#misc)
-- [Community](#community)
+- [应用/工具](#applications-tools)
+- [分析](#analytics)
+- [杂项](#misc)
+- [社区](#community)
 
 <a name="decentralized-exchange-protocols" />
 
@@ -36,10 +36,10 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Kyber](https://kyber.network) ([source code](https://github.com/kybernetwork), [white paper](https://files.kyber.network/Kyber_Protocol_22_April_v0.1.pdf)) - On-chain protocol for decentralized token swaps and for easy application integration
   - [Loopring](https://loopring.org) ([source code](https://github.com/loopring), [white paper](https://loopring.org/resources.html)) - Protocol for building decentralized exchanges
   - [Ren](https://renproject.io/) ([source code](https://github.com/renproject), [white paper](https://renproject.io/litepaper.pdf)) - Decentralized dark pool protocol for atomic swaps of digital assets formerly known as Republic
-  - [Swap / AirSwap's Protocol](https://airswap.io) ([source code](https://github.com/airswap), [white paper](https://swap.tech/whitepaper/)) - Protocol for peer-to-peer trading of ERC-20 tokens
-  - [Uniswap](https://uniswap.io) ([source code](https://github.com/Uniswap), [white paper](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig)) - "Public good"-oriented interface for ERC-20 token exchange with zero rent-extraction.
+  - [Swap / AirSwap's Protocol](https://airswap.io) ([source code](https://github.com/airswap), [white paper](https://swap.tech/whitepaper/)) - ERC-20代币的对等交易协议
+  - [Uniswap](https://uniswap.io) ([source code](https://github.com/Uniswap), [white paper](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig)) - "公共美好"-ERC-20令牌交换的面向界面，零租金提取.
 
-- [Stellar](https://www.stellar.org/developers/guides/concepts/exchange.html) ([source code](https://github.com/stellar), [white paper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf)) - Decentralized protocol for financial applications, including support for decentralized exchange
+- [Stellar](https://www.stellar.org/developers/guides/concepts/exchange.html) ([source code](https://github.com/stellar), [white paper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf)) - 财务应用的分散协议 , 包括支持去中心化交易所
   - [StellarX](https://www.stellarx.com/) (closed source) - A UI for the native Stellar DEX built by [Interstellar](https://interstellar.com/)
   - [Interstellar.exchange](https://interstellar.exchange/) (closed source) - A UI for the native Stellar DEX built by [Fintech](https://www.fintech.cm/) (not related to the company Interstellar)
   - [Stellarport](https://stellarport.io) (closed source) - A UI for the Stellar DEX
