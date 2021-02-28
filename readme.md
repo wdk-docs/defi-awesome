@@ -25,9 +25,9 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 ## 分散的交换协议
 
-- [BitShares](https://bitshares.org/technology/decentralized-asset-exchange) ([source code](https://github.com/bitshares), [white paper](https://www.bitshares.foundation/download/articles/BitSharesBlockchain.pdf)) - Decentralized exchange protocol based on the Graphene blockchain
+- [BitShares](https://bitshares.org/technology/decentralized-asset-exchange) ([source code](https://github.com/bitshares), [white paper](https://www.bitshares.foundation/download/articles/BitSharesBlockchain.pdf)) - 基于石墨烯区块链的分散的交换协议
 - Bitcoin
-  - [Bisq](https://bisq.network) ([source code](https://github.com/bisq-network/bisq), [white paper](https://github.com/bisq-network/bisq-docs/blob/master/exchange/whitepaper.adoc)) - Protocol for peer-to-peer exchange of bitcoin
+  - [Bisq](https://bisq.network) ([source code](https://github.com/bisq-network/bisq), [white paper](https://github.com/bisq-network/bisq-docs/blob/master/exchange/whitepaper.adoc)) - 比特币点对点交换协议
 - Ethereum
   - [0x](https://0x.org/) ([source code](https://github.com/0xProject), [white paper](https://0x.org/pdfs/0x_white_paper.pdf)) - Protocol for decentralized exchange of Ethereum assets using relayers, now on version 2
   - [Bancor Protocol](https://about.bancor.network/protocol/) ([source code](https://github.com/bancorprotocol/contracts), [white paper](https://storage.googleapis.com/website-bancor/2018/04/01ba8253-bancor_protocol_whitepaper_en.pdf)) - Protocol for converting one token to another using "smart tokens"
@@ -80,7 +80,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 ## 贷款协议
 
 - Ethereum
-  - [Compound](https://compound.finance) ([source code](https://github.com/compound-finance/), [white paper](https://compound.finance/documents/Compound.Whitepaper.v04-83de48b6622ddd665234b41076d04c8b.pdf?vsn=d)) - Protocol for algorithmic money markets
+  - [Compound](https://compound.finance) ([source code](https://github.com/compound-finance/), [white paper](https://compound.finance/documents/Compound.Whitepaper.v04-83de48b6622ddd665234b41076d04c8b.pdf?vsn=d)) - 算法金钱市场协议
   - [Dharma](https://www.dharma.io/) ([source code](https://github.com/dharmaprotocol) [white paper](https://dharmaprotocol.github.io/developer-docs/#/)) - Protocol for building lending products using tokenized debt
   - [Ethlend](https://ethlend.io) ([source code](https://github.com/ETHLend), [white paper](https://github.com/ETHLend/Documentation/blob/master/ETHLendWhitePaper.md)) - Marketplace for peer-to-peer lending
   - [Lendroid](https://www.lendroid.com) ([source code](https://github.com/lendroidproject), [white paper](https://lendroid.com/assets/whitepaper-margin-trading.pdf)) - Protocol for decentralized lending, margin trading, and short selling
